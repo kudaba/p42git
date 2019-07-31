@@ -40,7 +40,7 @@ Here's a quick reference of common lingo. I'll go into more detail later.
 
 Connecting to a Git Repository can be either much easier or much harder depending on the setup. The simplest method would be to connect to a network shared folder or public GitHub Repository. The next simplest is connecting a well known system that uses OAuth, GitHub, GitLab, Bitbucket or Azure. The hardest method is if you need to setup [SSH authentication](https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html), I really hope you don't need to go down that road. You won't need an account to Clone public Repositories, but you will need one if you want to contribute.
 
-Let's start by cloning a repository. I'm going to use [Markdown-Here](https://GitHub.com/adam-p/markdown-here) who's (Cheatsheet)[https://GitHub.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] I'm using to write this article.
+Let's start by cloning a repository. I'm going to use [Markdown-Here](https://GitHub.com/adam-p/markdown-here) who's [Cheatsheet](https://GitHub.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) I'm using to write this article.
 
 ![](images/clone.png "The Clone button")
 
